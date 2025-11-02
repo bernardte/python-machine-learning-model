@@ -7,7 +7,7 @@ tempCodeRunnerFile.py
 
 # Ignore specific Jupyter notebook files in Traditional Model
 Traditional Model/ensembleModel.ipynb
-Traditional Model/linearRegression.ipynb
+Traditional Model/randomForest.ipynb
 Traditional Model/logisticRegression.ipynb
 Traditional Model/supportVectorRegression.ipynb
 
